@@ -1,1 +1,14 @@
+# Pastas a serem ignoradas
 node_modules/
+build/
+dist/
+webpack/
+data/
+components/
+
+# Arquivos a serem ignorados
+.env
+
+# Outros
+.DS_Store
+*.log
