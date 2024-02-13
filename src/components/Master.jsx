@@ -8,6 +8,7 @@ function Master() {
         <Link to="/">Home</Link> <br />
         <Link to="/posts">Clique aqui para ver os posts</Link> <br />
         <Link to="/posts/1">Clique aqui para ver um post</Link>
+        <Link to="/posts/2">Clique aqui para ver um post</Link>
       </div>
       <Outlet />
     </>

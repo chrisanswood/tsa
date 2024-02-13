@@ -7,7 +7,7 @@ function Home() {
     <>
       <Header />
       <div>
-        <Link to="/posts">Clique aqui para ver os posts</Link>
+        <Link to="/posts">Ver posts</Link>
       </div>
     </>
   );
